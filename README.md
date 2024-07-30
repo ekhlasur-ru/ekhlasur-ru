@@ -9,7 +9,7 @@ With a mathematics degree and over one year of experience in Microsoft Office ap
 HTML, CSS, JavaScript, Tailwindcss, Vite, React, Node.js, Express.js, MongoDB, WordPress Theme Customization, Photoshop, Illustrator, Figma, 
 
 
-## Features
+## My Work
 
 - WordPress Theme Customization 
 - Frontend Web Design (Using React Tailwindcss)
