@@ -35,7 +35,7 @@ Clone  my-project with git terminal
 
 ## Feedback
 
-If you have any feedback, please reach out to us at ekhlsur.ru@outlook.com 
+If you have any feedback, please reach out to me at ekhlsur.ru@outlook.com 
 
 
 <!---
