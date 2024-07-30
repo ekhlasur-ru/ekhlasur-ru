@@ -1,5 +1,5 @@
 
-# Hi, I'm Ekhlasur Rahman! 👋
+# Hi, I'm Ekhlasur Rahman.
 
 
 ## 🚀 About Me
