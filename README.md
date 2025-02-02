@@ -58,4 +58,4 @@ If you have any feedback, please reach out to me at ekhlsur.ru@outlook.com
 
 ## Authors
 
-- [@webdevankit07](https://github.com/ekhlasur-ru)
+- [@ekhlasur-ru](https://github.com/ekhlasur-ru)
